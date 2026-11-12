@@ -1,0 +1,6 @@
+{
+  "name": "전일",
+  "description": "API 키, 비밀번호, 보안 연락처를 강력한 암호화로 안전하게 보관하는 나만의 비밀번호 저장소",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
